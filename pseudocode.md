@@ -1,6 +1,7 @@
 Algoritma: Harga_Bayar_12
 
 Deklarasi:
+Merkbuku : String
 harga, jumlah, jmlhhal : int
 dis, total, bayar, jmlDis : double
 
