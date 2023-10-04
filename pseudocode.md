@@ -19,4 +19,4 @@ Deskripsi:
 11. total=harga*jumlah;
 12. jmlDis=total*dis;
 13. bayar=total-jmlDis;
-14. print “Diskon yang anda dapatkan adalah” +bayar
+14. print “jumlah yang harus anda bayar adalah” +bayar
